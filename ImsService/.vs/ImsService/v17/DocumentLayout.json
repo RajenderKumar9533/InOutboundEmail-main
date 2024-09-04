@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IMS Project\\ImsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|e:\\ims project\\imsservice\\imsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|solutionrelative:imsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|E:\\IMS Project\\ImsService\\imsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|solutionrelative:imsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|E:\\IMS Project\\ImsService\\imsservice\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|solutionrelative:imsservice\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|E:\\IMS Project\\ImsService\\imsservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|solutionrelative:imsservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|E:\\IMS Project\\ImsService\\imsservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|solutionrelative:imsservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|E:\\IMS Project\\ImsService\\imsservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B0ADCFA-C4C2-481C-BE28-FAC360B30BB7}|ImsService\\ImsService.csproj|solutionrelative:imsservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "E:\\IMS Project\\ImsService\\ImsService\\Service1.cs",
+              "RelativeDocumentMoniker": "ImsService\\Service1.cs",
+              "ToolTip": "E:\\IMS Project\\ImsService\\ImsService\\Service1.cs",
+              "RelativeToolTip": "ImsService\\Service1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAvwDMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:15:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.Designer.cs",
+              "DocumentMoniker": "E:\\IMS Project\\ImsService\\ImsService\\Service1.Designer.cs",
+              "RelativeDocumentMoniker": "ImsService\\Service1.Designer.cs",
+              "ToolTip": "E:\\IMS Project\\ImsService\\ImsService\\Service1.Designer.cs",
+              "RelativeToolTip": "ImsService\\Service1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:14:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.Designer.cs",
+              "DocumentMoniker": "E:\\IMS Project\\ImsService\\ImsService\\ProjectInstaller.Designer.cs",
+              "RelativeDocumentMoniker": "ImsService\\ProjectInstaller.Designer.cs",
+              "ToolTip": "E:\\IMS Project\\ImsService\\ImsService\\ProjectInstaller.Designer.cs",
+              "RelativeToolTip": "ImsService\\ProjectInstaller.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:11:28.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "E:\\IMS Project\\ImsService\\ImsService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ImsService\\ProjectInstaller.cs",
+              "ToolTip": "E:\\IMS Project\\ImsService\\ImsService\\ProjectInstaller.cs",
+              "RelativeToolTip": "ImsService\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:10:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "E:\\IMS Project\\ImsService\\ImsService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "ImsService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\Rajenderkumar.K\\source\\repos\\ImsService\\ImsService\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:08:36.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "E:\\IMS Project\\ImsService\\ImsService\\Service1.cs",
+              "RelativeDocumentMoniker": "ImsService\\Service1.cs",
+              "ToolTip": "C:\\Users\\Rajenderkumar.K\\source\\repos\\ImsService\\ImsService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:08:04.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

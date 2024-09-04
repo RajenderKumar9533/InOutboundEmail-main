@@ -1,0 +1,92 @@
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\ImsService.exe.config
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\ImsService.exe
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\ImsService.pdb
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.csproj.AssemblyReference.cache
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.ProjectInstaller.resources
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.csproj.GenerateResource.cache
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.csproj.CoreCompileInputs.cache
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.exe
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.pdb
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Buffers.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Memory.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Text.Json.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.ValueTuple.dll
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Buffers.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Memory.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Text.Json.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\bin\Debug\System.ValueTuple.xml
+C:\Users\Rajenderkumar.K\source\repos\ImsService\ImsService\obj\Debug\ImsService.csproj.Up2Date
+E:\IMS Project\ImsService\ImsService\bin\Debug\ImsService.exe.config
+E:\IMS Project\ImsService\ImsService\bin\Debug\ImsService.exe
+E:\IMS Project\ImsService\ImsService\bin\Debug\ImsService.pdb
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Buffers.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Memory.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Numerics.Vectors.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Text.Encodings.Web.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Text.Json.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.ValueTuple.dll
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Buffers.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Memory.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Numerics.Vectors.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Text.Encodings.Web.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Text.Json.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\IMS Project\ImsService\ImsService\bin\Debug\System.ValueTuple.xml
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.csproj.AssemblyReference.cache
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.ProjectInstaller.resources
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.csproj.GenerateResource.cache
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.csproj.CoreCompileInputs.cache
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.csproj.Up2Date
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.exe
+E:\IMS Project\ImsService\ImsService\obj\Debug\ImsService.pdb
